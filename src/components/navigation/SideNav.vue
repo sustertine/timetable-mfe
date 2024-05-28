@@ -13,11 +13,11 @@ import {Icon} from "@iconify/vue";
      <Icon icon="bi:calendar2" class="w-6 h-6 mr-2"/>
       <span>SIPIA</span>
     </Button>
-    <Button class="flex items-center p-4 mb-4">
+    <Button class="flex items-center p-4 mb-3">
       <Icon icon="bi:calendar2" class="w-6 h-6 mr-2"/>
       <span>UPP</span>
     </Button>
-    <Button class="flex items-center p-4 mb-4">
+    <Button class="flex items-center p-4 mb-3">
       <Icon icon="bi:calendar2" class="w-6 h-6 mr-2"/>
       <span>IS</span>
     </Button>

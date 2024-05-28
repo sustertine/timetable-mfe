@@ -13,7 +13,7 @@ import LoginButton from "timetable-users-mfe/LoginButton";
 import LogoutButton from "timetable-users-mfe/LogoutButton";
 import {ref} from "vue";
 
-let loggedIn = ref(true);
+let loggedIn = ref(false);
 </script>
 
 <template>

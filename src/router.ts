@@ -9,7 +9,6 @@ const routes = [
     {path: '/', component: Home},
     {path: '/groups', component: Groups},
     {path: '/timetables', component: TImetablesView},
-    // user details page from route with id
     {path: '/users/:id', component: UserDetailsPage},
 ]
 
